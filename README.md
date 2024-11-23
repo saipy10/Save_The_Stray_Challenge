@@ -97,16 +97,17 @@ This solution not only addresses a pressing societal issue but also introduces a
 
 ### 1. **Map View**  
 _Displaying the user location and nearby reported stray animals._  
-![Map View](screenshots/map-view.jpg)
+![Map View](map-view.jpg)
 
 ---
 
 ### 2. **Report Stray**  
 _Enter the report details._
-![Report Details](screenshots/report_details.jpg)
+
+![Report Details](report_details.jpg)
 
 _Ensuring secure user authentication._  
-![Mobile OTP Verification](screenshots/otp-verification.jpg)
+![Mobile OTP Verification](otp-verification.jpg)
 
 ---
 
