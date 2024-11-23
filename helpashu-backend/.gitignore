@@ -1,0 +1,75 @@
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+*.env.*
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Logs and temporary files
+*.log
+logs/
+*.pid
+*.swp
+*.swo
+*.bak
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.iml
+
+# Byte-compiled or cached files
+*.pyc
+*.pyo
+
+# Database files
+*.db
+*.sqlite3
+
+# Deployment files
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.installed.cfg
+*.manifest
+*.spec
+*.egg
+
+# Coverage and test results
+htmlcov/
+.tox/
+.cache/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.pytest_cache/
+
+# Flask-Specific Ignored Files
+instance/
+*.conf
+*.key
+*.crt
+
+# Temporary development files
+*.~*
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
