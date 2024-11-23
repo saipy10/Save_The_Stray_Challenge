@@ -205,7 +205,6 @@ project/
 │   ├── package.json
 │   └── .env
 │
-├── screenshots/          # Screenshots for README
 └── README.md
 ```
 
@@ -213,7 +212,7 @@ project/
 
 ## 📡 API Endpoints
 
-### Backend (`http://localhost:5000`):
+### Backend]:
 - **POST `/send-otp`**: Sends an OTP to the given mobile number.
 - **POST `/verify-otp`**: Verifies the entered OTP.
 - **GET `/locations`**: Fetches all reported stray animal locations.
